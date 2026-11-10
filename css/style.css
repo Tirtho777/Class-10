@@ -40,7 +40,7 @@ a{
 
 #bannerPart{
     padding-top: 60px;
-    padding-bottom: 100px;
+    /* padding-bottom: 100px; */
     background: #07110D;
 }
 .cardShakib{
@@ -125,3 +125,169 @@ a{
 }
 
 /* banner part end */
+/* react part start */
+.row{
+    padding-bottom: 100px;
+}
+.df{
+    display: flex;
+}
+.box{
+    height: 168px;
+    width: 312px;
+    background: #0E1F18;
+    border: 1px solid #21402F;
+    border-radius: 20px;
+}
+.box h2{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 72px;
+    font-family: "Bebas Neue", sans-serif;
+    color: #F4EFE6;
+}
+.box p{
+    padding-left: 28px;
+    padding-bottom: 28px;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #9DB3A8;
+}
+.padding{
+    padding-left: 20px;
+    display: flex;
+}
+/* react part end */
+/* details part start */
+#detailsPart{
+    width: 1420;
+    height: 667px;
+    background: #0E1F18;
+}
+.space{
+    padding: 110px 60px;
+}
+.space h6{
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    color: #F42A41;
+    font-weight: 500;
+    letter-spacing: 20%;
+}
+.col-lg-5 h3{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 72px;
+    font-weight: 400;
+    color: #F4EFE6;
+    line-height: 95%;
+}
+.width{
+    width: 520px;
+    line-height: 95%;
+}
+.upperSection{
+    padding-top: 14px;
+    display: flex;
+}
+.col-lg-5 h3{
+    line-height: 95%;
+}
+.col-lg-6 h4{
+    padding-top: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 43px;
+    font-weight: 400;
+    color: #1FB57F;
+    line-height: 100%;
+}
+.born{
+    width: 534px;
+    height: 51px;
+    border: 1px solid #21402F;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding-top: 16px;
+    padding-left: 18px;
+
+}
+.bornTwo{
+    width: 534px;
+    height: 51px;
+    border: 1px solid #21402F;
+    padding-top: 16px;
+    padding-left: 18px;
+}
+.bornThree{
+   width: 534px;
+    height: 51px;
+    border: 1px solid #21402F;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    padding-top: 16px;
+    padding-left: 18px; 
+}
+
+.col-lg-6 p{
+    line-height: 165%;
+    padding-top: 20px;
+    width: 620px;
+    height: 120px;
+    font-size: 18px;
+    font-weight: 400px;
+    font-family: "Inter", sans-serif;
+    color: #9DB3A8;
+}
+.displayFlex{
+    display: flex;
+}
+.alainLeft{
+    padding-left: 218px;
+    color: #F4EFE6;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.alainLeftOne{
+padding-left: 398px;
+    color: #F4EFE6;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.alainLeftTwo{
+padding-left: 372px;
+    color: #F4EFE6;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.alainLeftThree{
+padding-left: 298px;
+    color: #F4EFE6;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.alainLeftFour{
+padding-left: 275px;
+    color: #F4EFE6;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+.modefy{
+    font-size: 12px;
+    color: #9DB3A8;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    
+}
+.hrBoder{
+height: 1px;
+color: #21402F;
+
+}
+
+/* details part end */
+
