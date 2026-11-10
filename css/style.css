@@ -333,11 +333,24 @@ color: #21402F;
 }
 
 .carcle{
-    height: 20px;
+    height: 16px;
     width: 16px;
     background: #F42A41;
     border-radius: 999%;
+    border: 4px solid #07110D;
 }
-.line{
-    
+.df{
+    display: flex;
+    justify-content: space-between;
+}
+.jfone{
+    display: flex;
+}
+.lineone{
+    width: 148px;
+    height: 2px;
+    background: #21402F;
+}
+.alinetop{
+    padding-top: 6px;
 }
