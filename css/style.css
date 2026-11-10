@@ -166,7 +166,7 @@ a{
     background: #0E1F18;
 }
 .space{
-    padding: 110px 60px;
+    padding: 110px 0px;
 }
 .space h6{
     font-family: "Inter", sans-serif;
@@ -192,6 +192,7 @@ a{
 }
 .col-lg-5 h3{
     line-height: 95%;
+    padding-bottom: 24px;
 }
 .col-lg-6 h4{
     padding-top: 40px;
@@ -199,7 +200,7 @@ a{
     font-size: 43px;
     font-weight: 400;
     color: #1FB57F;
-    line-height: 100%;
+    line-height: 110%;
 }
 .born{
     width: 534px;
@@ -290,4 +291,53 @@ color: #21402F;
 }
 
 /* details part end */
+#career{
+    height: 815px;
+    background: #07110D;
+}
+.one-career{
+    padding-top: 110px;
+    padding-bottom: 14px;
+}
+.one-career h6{
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+    color: #F42A41;
+    font-weight: 500;
+    letter-spacing: 20%;
+}
+.tdoj{
+    display: flex;
+    padding-bottom: 56px;
+}
+.tdoj h3{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 72px;
+    font-weight: 400;
+    color: #F4EFE6;
+    line-height: 95%;
+}
+.tdoj p{
+    padding-top: 35px;
+    right: 0 auto;
+    justify-content: space-between;
+    width: 620px;
+    height: 120px;
+    font-size: 18px;
+    font-weight: 400px;
+    font-family: "Inter", sans-serif;
+    color: #9DB3A8;
+}
+.leftKer{
+    text-align: right;
+}
 
+.carcle{
+    height: 20px;
+    width: 16px;
+    background: #F42A41;
+    border-radius: 999%;
+}
+.line{
+    
+}
